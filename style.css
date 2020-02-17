@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: rgb(24, 19, 11);
+}
+
+h2{
+    color: seagreen;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    color: seashell;
+}
