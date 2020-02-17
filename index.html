@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ghana</title>
+    </title>
+    <link href="css/bootstrap.css" rel ="stylesheet">
+    <link href= "style.css" rel="stylesheet" type="text/css">
+    
+</head>
+<body>
+    <div class="containor">
+        <div class="jumbotron">
+            <div class="card">
+                <div class="cardbody">
+                    <h2>Akan naming system</h2>
+                    <p>
+                        The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.
+
+                        This naming tradition is shared throughout West Africa and the African diaspora. During the 18th–19th centuries, slaves in the Caribbean from the region that is modern-day Ghana were referred to as Coromantees. Many of the leaders of slave rebellions had "day names" including Cuffy or Kofi, Cudjoe or Kojo, and Quamina or Kwame/Kwamina.
+
+                        Most Ghanaians have at least one name from this system, even if they also have an English or Christian name. Notable figures with day names include Ghana's first president Kwame Nkrumah and former United Nations Secretary-General Kofi Annan.
+
+                        In the official orthography of the Twi language, the Ashanti versions of these names as spoken in Kumasi are as follows. The diacritics on á a̍ à represent high, mid, and low tone (tone does not need to be marked on every vowel), while the diacritic on a̩ is used for vowel harmony and can be ignored. (Diacritics are frequently dropped in any case.) Variants of the names are used in other languages, or may represent different transliteration schemes. The variants mostly consist of different affixes (in Ashanti, kwa- or ko- for men and a- plus -a or -wa for women). For example, among the Fante, the prefixes are kwe- and e-, respectively. Akan d̩wo is pronounced something like English Joe, but there do appear to be two sets of names for those born on Tuesday.
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form class="form">
+                <label>YEAR OF BIRTH</label><br>
+                <input type="number" id="year" min="1900" max="2099" step="1" placeholder="YYYY" value="" />
+                <br><br>
+            <label>BIRTH MONTH:</label><br>
+                <input type="number" id="month" min="01" max="12" step="1" placeholder="MM" value="" /><br><br>
+            <label>Day OF BIRTH </label><br>
+                <input type="number" name="DAY" id="day" min="01" max="31" placeholder="DD" value=""><br><br>
+            <label>GENDER</label><br>
+        <div id="gender">
+            <input type="radio" name="gender" id="gender" value="male" checked> Male<br>
+            <input type="radio" name="gender" value="female">Female<br>
+        </div>
+        <input type="submit" value="Submit" class="btn btn-primary btn-lg" onclick="results()">
+        </div>
+    </form> 
+     <script src="js/script.js"></script>
+    
+</body>
+</html>
