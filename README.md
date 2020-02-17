@@ -10,8 +10,7 @@ HTML
 CSS
 java script
 ## Technical requirements
-You need to have internet on your machine to run the website
-You need to have a github account
+internet connection
 ## Live Link
 my Github link https://github.com/kelvinjoshua/javawork.git
 ## Contact Details
