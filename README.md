@@ -1,5 +1,5 @@
 ## Project name
-the-nba
+ghana
 ## Project Author
 kelvin Bale
 ## Project Description
