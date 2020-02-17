@@ -3,7 +3,8 @@ ghana
 ## Project Author
 kelvin Bale
 ## Project Description
-This is a webpage with images and a brief decription on the about page
+This is a webpage with a description on the landing page 
+a form which the user will input the year month and date and return an alert with the user's akan name
 ## Technology used
 HTML
 CSS
