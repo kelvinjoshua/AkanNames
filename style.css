@@ -1,6 +1,9 @@
 body{
     background-color: black;
 }
+.containor img{
+    height: 200px;
+}
 
 p{
     color: rgb(24, 19, 11);
