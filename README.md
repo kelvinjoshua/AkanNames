@@ -7,6 +7,7 @@ This is a webpage with images and a brief decription on the about page
 ## Technology used
 HTML
 CSS
+java script
 ## Technical requirements
 You need to have internet on your machine to run the website
 You need to have a github account
