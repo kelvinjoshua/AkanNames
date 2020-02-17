@@ -12,7 +12,7 @@ java script
 ## Technical requirements
 internet connection
 ## Live Link
-my Github link https://github.com/kelvinjoshua/javawork.git
+my Github link https://kelvinjoshua.github.io/javawork/
 ## Contact Details
 Email: kelvinbale78@gmail.com
 Phone-No:0758913185
